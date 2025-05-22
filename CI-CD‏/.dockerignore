@@ -1,0 +1,14 @@
+__pycache__/
+*.log
+*.csv
+*.pkl
+*.zip
+*.gz
+*.tar
+*.ipynb
+.env
+.git
+*.md
+Dockerfile
+prometheus.yml
+docker-compose.yml
